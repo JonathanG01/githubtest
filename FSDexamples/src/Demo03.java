@@ -34,7 +34,7 @@ public class Demo03 {
 		for (String name01 : x) {
 			System.out.println(name01.toString());
 		} failed attempt before googling it*/
-		
+		System.out.println("Iterate at specific index");
 		Iterator y = x.listIterator(2);
 		while (y.hasNext()) {
 			System.out.println(y.next());//3, should ask if it can be done another way.

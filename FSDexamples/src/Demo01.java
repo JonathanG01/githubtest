@@ -97,6 +97,7 @@ public class Demo01 {
 	        for(String name: x){
 		        System.out.println(name);
 		        
+		        
 		    }
 	        //partial portion of arraylist
 	        System.out.println("******************************");

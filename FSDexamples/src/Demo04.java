@@ -16,7 +16,7 @@ public class Demo04 {
 		x.add("5");
 		System.out.println(x);
 		System.out.println("*****************************");
-		System.out.println("add element to the end and Iterated hashset");
+		System.out.println("add element to the end and iterate hashset");
 		x.add("6");//1
 		//System.out.println(x.add("6")); not sure why this comes as true.
 		for( String name02 : x) {System.out.println(name02);}//2 iterate
